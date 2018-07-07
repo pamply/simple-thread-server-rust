@@ -1,3 +1,7 @@
+/**
+ * Example based on: https://doc.rust-lang.org/book/second-edition/ch20-01-single-threaded.html
+ */
+
 use std::io::prelude::*;
 use std::net::TcpStream;
 use std::net::TcpListener;
